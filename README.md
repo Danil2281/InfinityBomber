@@ -1,1 +1,1 @@
-# InfinityBomber
+# InfinitySpammer
